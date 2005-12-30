@@ -1,0 +1,23 @@
+x11proto-xext (7.0.2-1) UNRELEASED; urgency=low
+
+  * First upload to Debian
+
+ -- David Nusinow <dnusinow@debian.org>  Fri, 30 Dec 2005 14:36:39 -0500
+
+x11proto-xext (6.9.99.0-1) breezy; urgency=low
+
+  * Update to version from 7.0RC1 to get ShapeInput.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Wed, 17 Aug 2005 22:40:29 +1000
+
+x11proto-xext (6.8.99.7-2) breezy; urgency=low
+
+  * Add Depends on libxi-dev and libxau-dev.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Thu, 14 Jul 2005 14:08:55 +1000
+
+x11proto-xext (6.8.99.7-1) breezy; urgency=low
+
+  * First x11proto-xext release.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Mon, 16 May 2005 22:10:17 +1000
