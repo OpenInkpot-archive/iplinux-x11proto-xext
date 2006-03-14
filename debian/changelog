@@ -1,3 +1,10 @@
+x11proto-xext (7.0.2-3) UNRELEASED-experimental; urgency=low
+
+  * Replace dependency on libxi-dev by x11proto-input-dev, as suggested by
+    Daniel Stone.
+
+ -- Denis Barbier <barbier@debian.org>  Tue, 14 Mar 2006 23:00:09 +0000
+
 x11proto-xext (7.0.2-2) experimental; urgency=low
 
   * Add epoch to versioned Pre-Depends on x11-common to make upgrades
