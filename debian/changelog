@@ -1,3 +1,9 @@
+x11proto-xext (7.0.2-4) unstable; urgency=low
+
+  * Upload to unstable
+
+ -- David Nusinow <dnusinow@debian.org>  Thu, 23 Mar 2006 21:36:28 -0500
+
 x11proto-xext (7.0.2-3) UNRELEASED-experimental; urgency=low
 
   * Replace dependency on libxi-dev by x11proto-input-dev, as suggested by
