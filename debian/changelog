@@ -1,0 +1,50 @@
+x11proto-xext (7.0.2-5) UNRELEASED; urgency=low
+
+  * Test for obj-$(DEB_BUILD_GNU_TYPE) before creating it during build;
+    idempotency fix. 
+
+ -- Andres Salomon <dilinger@debian.org>  Mon, 17 Jul 2006 00:05:25 -0400
+
+x11proto-xext (7.0.2-4) unstable; urgency=low
+
+  * Upload to unstable
+
+ -- David Nusinow <dnusinow@debian.org>  Thu, 23 Mar 2006 21:36:28 -0500
+
+x11proto-xext (7.0.2-3) UNRELEASED-experimental; urgency=low
+
+  * Replace dependency on libxi-dev by x11proto-input-dev, as suggested by
+    Daniel Stone.
+
+ -- Denis Barbier <barbier@debian.org>  Tue, 14 Mar 2006 23:00:09 +0000
+
+x11proto-xext (7.0.2-2) experimental; urgency=low
+
+  * Add epoch to versioned Pre-Depends on x11-common to make upgrades
+    from monolithic x11-common work (Closes: #351779).
+
+ -- Michel Dänzer <daenzer@debian.org>  Thu,  9 Feb 2006 16:41:07 +0100
+
+x11proto-xext (7.0.2-1) experimental; urgency=low
+
+  * First upload to Debian
+
+ -- David Nusinow <dnusinow@debian.org>  Fri, 30 Dec 2005 14:36:39 -0500
+
+x11proto-xext (6.9.99.0-1) breezy; urgency=low
+
+  * Update to version from 7.0RC1 to get ShapeInput.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Wed, 17 Aug 2005 22:40:29 +1000
+
+x11proto-xext (6.8.99.7-2) breezy; urgency=low
+
+  * Add Depends on libxi-dev and libxau-dev.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Thu, 14 Jul 2005 14:08:55 +1000
+
+x11proto-xext (6.8.99.7-1) breezy; urgency=low
+
+  * First x11proto-xext release.
+
+ -- Daniel Stone <daniel.stone@ubuntu.com>  Mon, 16 May 2005 22:10:17 +1000
