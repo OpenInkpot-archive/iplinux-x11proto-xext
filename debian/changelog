@@ -1,4 +1,4 @@
-x11proto-xext (7.0.2-5) UNRELEASED; urgency=low
+x11proto-xext (7.0.2-5) unstable; urgency=low
 
   * Test for obj-$(DEB_BUILD_GNU_TYPE) before creating it during build;
     idempotency fix.
@@ -8,9 +8,9 @@ x11proto-xext (7.0.2-5) UNRELEASED; urgency=low
   * Drop duplicate x11-common dep in -dev package.
   * Bump standards version to 3.7.2.0.
   * Version x11-common pre-dep in -dev package to 1:7.0.0 to match
-    the rest of Debian. 
+    the rest of Debian.
 
- -- Andres Salomon <dilinger@debian.org>  Thu, 20 Jul 2006 04:38:52 -0400
+ -- Andres Salomon <dilinger@debian.org>  Fri, 21 Jul 2006 03:00:19 -0400
 
 x11proto-xext (7.0.2-4) unstable; urgency=low
 
