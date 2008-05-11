@@ -2,11 +2,11 @@ Source: x11proto-xext
 Section: x11
 Priority: optional
 Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Uploaders: David Nusinow <dnusinow@debian.org>, Branden Robinson <branden@debian.org>, Andres Salomon <dilinger@debian.org>
+Uploaders: David Nusinow <dnusinow@debian.org>, Andres Salomon <dilinger@debian.org>, Julien Cristau <jcristau@debian.org>
 Build-Depends: debhelper (>= 4.0.0)
-Standards-Version: 3.7.2
-XS-Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-xext
-XS-Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-xext.git
+Standards-Version: 3.7.3
+Vcs-Git: git://git.debian.org/git/pkg-xorg/proto/x11proto-xext
+Vcs-Browser: http://git.debian.org/?p=pkg-xorg/proto/x11proto-xext.git
 
 Package: x11proto-xext-dev
 Architecture: all
