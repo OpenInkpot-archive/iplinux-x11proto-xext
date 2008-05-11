@@ -1,4 +1,4 @@
-x11proto-xext (7.0.2-6) UNRELEASED; urgency=low
+x11proto-xext (7.0.2-6) unstable; urgency=low
 
   [ Brice Goglin ]
   * Update the long description.
@@ -11,7 +11,7 @@ x11proto-xext (7.0.2-6) UNRELEASED; urgency=low
   * Add myself to Uploaders.
   * Bump Standards-Version to 3.7.3.
 
- -- Brice Goglin <bgoglin@debian.org>  Tue, 14 Aug 2007 00:14:16 +0200
+ -- Julien Cristau <jcristau@debian.org>  Sun, 11 May 2008 21:13:40 +0200
 
 x11proto-xext (7.0.2-5) unstable; urgency=low
 
