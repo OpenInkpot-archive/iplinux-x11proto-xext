@@ -1,3 +1,10 @@
+x11proto-xext (7.0.5-1) asimov; urgency=low
+
+  * New upstream release.
+  * First build for IPlinux.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Fri, 13 Mar 2009 16:09:36 +0600
+
 x11proto-xext (7.0.3-0.oi1) asimov; urgency=low
 
   * OpenInkpot build.
