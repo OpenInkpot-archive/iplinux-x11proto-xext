@@ -1,3 +1,9 @@
+x11proto-xext (7.2.0-1) asimov; urgency=low
+
+  * New upstream release.
+
+ -- Alexander Kerner <lunohod@openinkpot.org>  Thu, 07 Apr 2011 23:50:05 +0200
+
 x11proto-xext (7.1.1-1) asimov; urgency=low
 
   * New upstream release.
