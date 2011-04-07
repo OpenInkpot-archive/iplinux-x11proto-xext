@@ -3,8 +3,8 @@ Section: libdevel
 Priority: optional
 Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
 Uploaders: Alexander Kerner <lunohod@openinkpot.org>
-Build-Depends: debhelper (>= 7), autoconf, automake, xorg-util-macros
-XCS-Cross-Host-Build-Depends: debhelper (>= 7), autoconf, automake, xorg-util-macros
+Build-Depends: debhelper (>= 7), autoconf, automake, xorg-util-macros (>= 1.10)
+XCS-Cross-Host-Build-Depends: debhelper (>= 7), autoconf, automake, xorg-util-macros (>= 1.10)
 Standards-Version: 3.8.3
 
 Package: x11proto-xext-dev
